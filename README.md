@@ -1,1 +1,1 @@
-Welcome to [Ting's personal site](https://huang704.github.io/PersonalSite/dist/)!
+Welcome to [Ting's personal site](https://huang704.github.io/PersonalSite/)!
